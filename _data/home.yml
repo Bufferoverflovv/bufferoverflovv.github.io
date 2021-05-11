@@ -18,7 +18,7 @@ project_entries:
   - title: Project 1
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
-    image: pic_trulli.jpg
+    image: https://i.imgur.com/2Yt3YSch.jpg
 
   - title: Project 2
     url: overview-post
