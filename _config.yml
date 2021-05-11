@@ -1,4 +1,4 @@
 title: Jordan Daniel
 logo:
 description: A portfolio of my work
-theme: jekyll-theme-minimal
+remote_theme:  jamigibbs/phantom 
