@@ -18,7 +18,7 @@ ul.horizontal-list {
 }
 
 .card {
-  padding: 1em;
+  padding: 0.1em;
   border: 1px var(--text) solid;
   width: 360px;
   height: auto;
@@ -27,7 +27,7 @@ ul.horizontal-list {
   align-items: center;
   background-color: var(--bg-secondary);
   margin-bottom: 0.1em;
-  border-radius: 0.8em;
+  border-radius: 0.1em;
 
   .header {
     color: var(--links);
