@@ -15,11 +15,11 @@ navbar_entries:
     url: https://github.com/Bufferoverflovv
 
 project_entries:
-  - title: Project 1
+  - title: WipEout Clone
     url: overview-post
     image: https://streamable.com/e/kj48it?autoplay=1&nocontrols=1
 
-  - title: Project 2
+  - title: VR Prototypes
     url: overview-post
     image: https://streamable.com/e/49zx93?autoplay=1&nocontrols=1
 
