@@ -7,9 +7,6 @@ navbar_entries:
     
   - title: twitter
     url: https://twitter.com/bufferoverflovv
-  
-  - title: itch
-    url:
    
   - title: github
     url: https://github.com/Bufferoverflovv
@@ -29,14 +26,15 @@ project_entries:
 
   - title: Procedural Solar System
     url: overview-post
-    image: https://streamable.com/e/2my1n0?autoplay=1&nocontrols=1
+    image: https://streamable.com/e/wrtavu?autoplay=1&nocontrols=1
 
   - title: 3D Tron 
     url: overview-post
     image: https://streamable.com/e/br5vkb/2my1n0?autoplay=1&nocontrols=1
 
-  - title: Project 6
+  - title: Other/Random Prototypes
     url: overview-post
+    image: https://streamable.com/e/vi7vga?autoplay=1&nocontrols=1
 
 footer_entries:
   - title: twitter
