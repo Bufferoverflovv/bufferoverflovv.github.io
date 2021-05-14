@@ -6,5 +6,6 @@ permalink: /
 {% include landing.html %}
 
 ___
-## Highlights
+<br />
+### Highlights
 {% include elements/video.html id="aZNbUITN-mA" %}
