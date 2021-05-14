@@ -9,13 +9,13 @@
           {% if item.highlight %}
             <mark>{{ item.highlight }}</mark>
           {% endif %}
-          <iframe src="{{ item.image }}" width="350" height="400" frameborder="0" allowfullscreen allow="autoplay"></iframe>
         </span>
         {% if item.desc != false %}
         <p class="body">
           {{ item.desc }}
         </p>
         {% endif %}
+        <iframe src="{{ item.image }}" width="350" height="400" frameborder="0" allowfullscreen allow="autoplay"></iframe>
       </a>
     </li>
 
