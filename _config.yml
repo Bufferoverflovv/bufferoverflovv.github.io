@@ -44,7 +44,7 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+#permalink: /blog/:title
 
 
 ### Collections ###
@@ -54,6 +54,8 @@ collections:
     permalink: /projects/:name
   elements:                                             # For Documentation Only
     output: false
+  blog:
+    outpit: false
 
 
 ### Disqus ###
