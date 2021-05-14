@@ -17,10 +17,11 @@ navbar_entries:
 project_entries:
   - title: Project 1
     url: overview-post
-    image:
+    image: https://streamable.com/e/kj48it?autoplay=1&nocontrols=1
 
   - title: Project 2
     url: overview-post
+    image: https://streamable.com/e/49zx93?autoplay=1&nocontrols=1
 
   - title: Project 3
     url: overview-post
