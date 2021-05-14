@@ -5,7 +5,6 @@
       <a href="{{ item.url }}">
         <span class="header">
           {{ item.title }}
-
           {% if item.highlight %}
             <mark>{{ item.highlight }}</mark>
           {% endif %}
@@ -13,9 +12,9 @@
         {% if item.desc != false %}
         <p class="body">
           {{ item.desc }}
+          <iframe src="{{ item.image }}" width="350" height="400" frameborder="0" allowfullscreen allow="autoplay"></iframe>
         </p>
         {% endif %}
-        <iframe src="{{ item.image }}" width="350" height="400" frameborder="0" allowfullscreen allow="autoplay"></iframe>
       </a>
     </li>
 
