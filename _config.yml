@@ -21,7 +21,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Jordan Daniel
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://cdnb.artstation.com/p/assets/images/images/035/039/421/large/sara-maria-googas.jpg?1613947745
 #  behance           : your_username
 # dribbble          : your_username
 #  email             : username@domain.com
@@ -75,16 +75,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false                                   # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:
