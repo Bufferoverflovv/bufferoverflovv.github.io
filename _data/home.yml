@@ -15,7 +15,7 @@ navbar_entries:
     url: https://github.com/Bufferoverflovv
 
 project_entries:
-  - title: WipEout Clone
+  - title: WipEout clone
     url: overview-post
     image: https://streamable.com/e/kj48it?autoplay=1&nocontrols=1
 
@@ -23,14 +23,17 @@ project_entries:
     url: overview-post
     image: https://streamable.com/e/49zx93?autoplay=1&nocontrols=1
 
-  - title: Project 3
-    url: overview-post
+  - title: Kaido Spirit
+    url:
+    image: https://streamable.com/e/xzko0y?autoplay=1&nocontrols=1
 
-  - title: Project 4
+  - title: Procedural Solar System
     url: overview-post
+    image: https://streamable.com/e/2my1n0?autoplay=1&nocontrols=1
 
-  - title: Project 5
+  - title: 3D Tron 
     url: overview-post
+    image: https://streamable.com/e/br5vkb/2my1n0?autoplay=1&nocontrols=1
 
   - title: Project 6
     url: overview-post
