@@ -12,3 +12,10 @@ This was a passion project of mine to try and replicate the feel, weight and phy
 # Some additional videos and clips 
 ## Demo/Protoype
 {% include elements/video.html id="b76xi7sVFUI" %}
+
+## First test of 3D HUD elements
+{% include elements/video.html id="pojWX34P6ZY" %}
+
+## AI Flight Test 
+The third iteration, AI was still a bit janky when following the racing line and vehicle physics were still being tweaked.
+{% include elements/video.html id="watch?v=xh6keL1qzqE" %}
