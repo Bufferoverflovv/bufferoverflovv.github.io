@@ -5,7 +5,7 @@ permalink: /
 
 {% include landing.html %}
 
-___
+<center>[I'm an inline-style link](https://www.google.com)</center>
 <br />
-### Highlights
+<center>### Highlights</center>
 {% include elements/video.html id="aZNbUITN-mA" %}
