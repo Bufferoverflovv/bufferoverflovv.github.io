@@ -6,7 +6,7 @@ permalink: /
 {% include landing.html %}
 
 <center>
-<a href="https://google.com">Check out my prototypes</a>
+<a href="https://bufferoverflovv.github.io/projects/">Check out my prototypes</a>
 </center>
 <br />
 <center><h3>Highlights</h3></center>
