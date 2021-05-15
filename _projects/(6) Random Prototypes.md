@@ -19,6 +19,7 @@ Some potions that I created using ASE and a modified from a tutorial I found onl
 
 # Procedural Planet Generator 
 This is a work in progress project with some friends with some inspiration from Planetary Annihilation. Spheres are generated using Fibbonacis golden spiral and delaunay to which then triangles on the surface of the spehre can be manipulated. The results are a work in progress.
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/1a2gv9?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 # Some VR Bloopers
 ## It's gonna be alright buddy
