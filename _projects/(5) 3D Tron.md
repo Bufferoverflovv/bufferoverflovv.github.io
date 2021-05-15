@@ -17,4 +17,4 @@ The first idea for the project. A 3D world made with probuilder and a cube with 
 
 ## The first pass on AI
 A trail made from a simple mesh was created behind the player and AI. The player or AI could get close to a wall to get an increase in speed. Hitting a wall meant death just like in TRON or Snake. 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/u5050h?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/br5vkb?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
