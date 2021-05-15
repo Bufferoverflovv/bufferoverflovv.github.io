@@ -12,7 +12,7 @@ Kaido Spirit was my next big solo project where I took lots of inspiration from 
 #Some additional videos and clips
 ## The Demo/Prototype 
 Did a complete anime styled art pass, added a replay system and had some basic AI working
-{% include elements/video.html id="xzSNQ--mOQs" %} 
+{% include elements/video.html id="KBuVmWGN_J4" %} 
 
 ## The vertical slice 
 This was the vertical slice of the game before the anime inspired art pass.
