@@ -22,21 +22,21 @@ Tried to recreate the cool stab mechanics from Boneworks and imported an open so
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/n9ac1b?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 # VR Weapons Framework
-I was trying to create my own weapons framework from raycasts to projectiles with real world trajectory physics and realistic scopes and weapon mechanics such as reloading, cocking, priming etc. I didn't get around to finishing the entire framework as at the time I started to get interested in VR Multiplayer. The intention was to create a shooting range demo with the different gun interactions and put it on Sidequest. 
+I was trying to create my own weapons framework from raycasts to projectiles with real world trajectory physics and real life weapon mechanics such as reloading, cocking, priming etc. I didn't get around to finishing the entire framework as at the time I started to get interested in VR Multiplayer. The intention was to create a shooting range demo with the different gun interactions and put it on Sidequest. I'd like to return back to this framework and finish it.
 ## Double Barrel Shotgun 
 The double barrel uses a custom joint with hard limits to simulate the break action. Each barrel is individually loaded meaning that if you loaded one then it would only shoot from the barrel it was loaded in. I used Gaussian Distribution Sampling and the Marsaglia Polar method to create realistic shotgun spreads. The results came out pretty well and I was even featured on "Best of made with unity" for this one interaction. 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/49zx93?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ## Bolt Action Rifles
-Naturally after double barrel shotguns I wanted to try my hand at bolt action. The bolt action was particularly tricky as I was trying to do with joints again and hard limits but found that joints probably weren't suited for this type of interaction. If I was to go back, I would redo this without joints. 
+Naturally after double barrel shotguns I wanted to try my hand at bolt action rifles. The bolt action was particularly tricky as I was trying to do it with custom joints again and hard limits but found that joints probably weren't suited for this type of interaction. If I was to go back, I would redo this without joints. 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/jna49v?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 # Telekinesis 
-Just a simple experiment with telekinesis.
+Just a simple experiment with telekinesis as a VR interaction. Pretty cool to swing bodies and objects around as well as bring them to you to be grabbed.
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/lu71vr?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 # Cooking and other interactions
-As my first prototype and research I started working on a cooking game in which you would be the innkeeper and feed meals to patrons. I used dynamic mesh slicing (meshes were not precut) and created a cooking system that featured bouyancy for soup. I also did a little bit of work on wood chopping and starting a fire. 
+This was my first prototype and research in VR interactions. I started working on a cooking game in which you would be the innkeeper and feed meals to patrons. I used dynamic mesh slicing (meshes were not precut) and created a recipe cooking system for matching ingredients to cooked meals. I also did bouyancy for soup and drinks. There's also some interactions with wood chopping and starting fires but it was a bit janky. 
 ## Chopping carrots and cooking carrot soup
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/llxed7?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
